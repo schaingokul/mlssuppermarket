@@ -63,7 +63,7 @@ export default function Login() {
     <View style={styles.container}>
       <View style={styles.AuthContainer}>
         <Text style={styles.AuthText}>Login Account</Text> 
-          <Text>Welcome Back! You'vqwere been missed</Text>
+          <Text>Welcome Back! Youhhh'vqwere been missed</Text>
       </View>
       {/* Input Fields */}
       <Text style={styles.label}>Username</Text>
